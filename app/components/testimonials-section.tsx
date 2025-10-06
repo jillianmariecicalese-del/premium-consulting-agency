@@ -22,7 +22,7 @@ const testimonials = [
     title: "Head of Business Development",
     company: "GlobalBuild Systems",
     country: "Spain",
-    image: "/images/testimonial-2.jpg",
+    image: "/images/Elena Rodriguez.jpg",
     content: "We won 3 out of 4 construction tenders through Premium Consulting Agency. Their local expertise saved us months of trial and error in international procurement processes.",
     rating: 5
   },
