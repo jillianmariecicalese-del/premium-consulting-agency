@@ -31,7 +31,7 @@ const testimonials = [
     title: "CEO",
     company: "International Supply Corp",
     country: "Singapore",
-    image: "/images/testimonial-3.jpg",
+    image: "/images/James Chen.jpg",
     content: "Secured a $2M supply contract within 2 months by leveraging their procurement navigation and Ministry connections. Outstanding results!",
     rating: 5
   }
