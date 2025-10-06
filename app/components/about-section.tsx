@@ -45,7 +45,7 @@ export default function AboutSection() {
           >
             <div className="relative h-96 rounded-lg overflow-hidden shadow-xl">
               <Image
-                src="/images/about-2.jpg"
+                src="/images/premium-consulting-agency.png"
                 alt="Premium Consulting Agency team collaboration"
                 fill
                 className="object-cover"
