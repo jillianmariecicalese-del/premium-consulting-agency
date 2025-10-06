@@ -13,7 +13,7 @@ const testimonials = [
     title: "Procurement Manager",
     company: "TechSolutions International",
     country: "Canada",
-    image: "/images/testimonial-1.jpg",
+    image: "/images/Marcus thompson.jpg",
     content: "Their market intelligence is unmatched. They alerted us to a technology tender before public advertisement, helping us secure a 3-year IT infrastructure contract with the National Technology Board.",
     rating: 5
   },
