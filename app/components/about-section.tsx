@@ -1,12 +1,11 @@
-
 "use client"
 
-import Image from 'next/image'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
 import { ArrowRight, Target, Eye, Award } from 'lucide-react'
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
+import Image from 'next/image'
 
 export default function AboutSection() {
   const { ref, inView } = useInView({
